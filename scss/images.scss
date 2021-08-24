@@ -1,0 +1,23 @@
+img{
+  border-radius: 50%;
+  width: 210px;
+  height: 210px;
+  box-shadow: 3px 5px 5px #999;
+  margin-bottom: 20px;
+}
+.img1{
+  background: url("content/bg-showcase-1.jpg");
+  background-position: center;
+  background-size:cover;
+
+}
+.img2{
+    background: url("content/bg-showcase-2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.img3{
+  background: url("content/bg-showcase-3.jpg");
+  background-size: cover;
+  background-position: center;
+}
